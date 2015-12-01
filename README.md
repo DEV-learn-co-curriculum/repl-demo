@@ -26,3 +26,5 @@ assert.strictEqual(response,"54321");
 ~~~
 
 %%%
+
+<a href='https://learn.co/lessons/repl-demo' data-visibility='hidden'>Learn.co resource</a>
